@@ -39,22 +39,18 @@ mindmap
       Tailwind CSS Styling
       EmailJS Integration
     Integrations
-       Email Contact
+      Email Contact
       Project Showcase
 ```
 
 </div>
-
-## 🚀 Demo
-
-Experience the live portfolio at [https://portfolio-lohit.vercel.app](https://portfolio-lohit.vercel.app)
 
 ## 🛠️ Installation
 
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/lohitkolluri/Portfolio-Website
+git clone https://github.com/eapinedo/Portfolio-Website
 ```
 
 2️⃣ Navigate to project directory:
@@ -130,7 +126,7 @@ npm run dev
 
 <div align="center">
 
-MIT License © [Lohit Kolluri](LICENSE)
+MIT License © [Emilio Pinedo](LICENSE)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 

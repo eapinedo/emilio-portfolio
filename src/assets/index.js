@@ -1,21 +1,16 @@
 // Import company logos
-import mathwork from "./company/mathwork.png";
-import edunet from "./company/edunet.png";
-import eduskill from "./company/eduskill.png";
+import lds from "./company/lds.png";
+import vs from "./company/vs.png";
 
 // Import tech stack images
 import python from "./tech-stack/python.png";
-import c from "./tech-stack/c.png";
-import cpp from "./tech-stack/cpp.png";
-import java from "./tech-stack/java.png";
+import sql_server from "./tech-stack/sql_server.png";
+import powerbi from "./tech-stack/powerbi.png";
+import excel from "./tech-stack/excel.png";
 
 // Import project images
-import weatherpedia from "./projects/WeatherPedia.png";
-import termpw from "./projects/termpw.png";
-import payloadmaster from "./projects/payloadmaster.png";
-import mhft from "./projects/mhft.png";
-import sketcher from "./projects/sketcher.png";
-import CompileVortex from "./projects/CompileVortex.png";
+import automation from "./projects/automation.png";
+import dashboard from "./projects/dashboard.png";
 
 // Import tech logos
 import css from "./tech/css.png";
@@ -34,12 +29,12 @@ import menu from "./menu.svg";
 import close from "./close.svg";
 
 export {
-  mathwork,
-  edunet,
+  lds,
+  vs,
   python,
-  c,
-  cpp,
-  java,
+  sql_server,
+  powerbi,
+  excel,
   github,
   css,
   git,
@@ -49,14 +44,9 @@ export {
   reactjs,
   tailwind,
   threejs,
-  weatherpedia,
-  termpw,
-  payloadmaster,
-  mhft,
-  sketcher,
-  CompileVortex,
+  automation,
+  dashboard,
   logo,
   menu,
   close,
-  eduskill,
 };

@@ -71,9 +71,9 @@ const Contact = () => {
         "template_mf5x3bh",
         {
           from_name: form.name,
-          to_name: "Lohit Kolluri",
+          to_name: "Emilio Pinedo",
           from_email: form.email,
-          to_email: "lohitkolluri@gmail.com",
+          to_email: "epinedos1999@gmail.com",
           message: form.message,
         },
         "p-gXzzyvEhPaJ0XA-"
@@ -109,7 +109,7 @@ const Contact = () => {
             name="name"
             value={form.name}
             onChange={handleChange}
-            placeholder="Insert Your name here..."
+            placeholder="Insert your name here..."
             type="text"
           />
           {nameError && <span className="text-red-500">{nameError}</span>}
@@ -129,7 +129,7 @@ const Contact = () => {
             name="message"
             value={form.message}
             onChange={handleChange}
-            placeholder="What you want to say...?"
+            placeholder="What do you want to say...?"
             type="text"
           />
 
