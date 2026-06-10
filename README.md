@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Portfolio%20website&fontSize=40&fontAlign=50&animation=fadeIn&fontAlignY=30)
 
-[![GitHub license](https://img.shields.io/github/license/lohitkolluri/Portfolio?style=flat-square)](LICENSE)
+[![GitHub license](https://img.shields.io/github/license/eapinedo/Portfolio?style=flat-square)](LICENSE)
 [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fportfolio-lohit.vercel.app)](https://portfolio-lohit.vercel.app)
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
 
