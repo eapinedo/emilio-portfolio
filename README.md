@@ -15,7 +15,7 @@
 1️⃣ Clone the repository:
 
 ```bash
-git clone https://github.com/eapinedo/Portfolio-Website
+git clone https://github.com/eapinedo/emilio-portfolio
 ```
 
 2️⃣ Navigate to project directory:
