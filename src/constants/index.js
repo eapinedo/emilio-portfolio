@@ -89,7 +89,7 @@ export const projects = [
       { name: "Power BI", color: "pink-text-gradient" },
     ],
     image: dashboard,
-    source_code_link: "https://github.com/eapinedo/Amazon-Sales",
+    source_code_link: "https://eapinedo.github.io/Amazon-Sales/",
   },
   {
     name: "Sales & Inventory Automation",
@@ -101,6 +101,6 @@ export const projects = [
       { name: "SQL Server", color: "pink-text-gradient" },
     ],
     image: automation,
-    source_code_link: "https://github.com/eapinedo/Sales-Inv-Automation",
+    source_code_link: "https://eapinedo.github.io/Sales-Inv-Automation/",
   }
 ];
