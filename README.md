@@ -3,7 +3,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Portfolio%20website&fontSize=40&fontAlign=50&animation=fadeIn&fontAlignY=30)
 
 [![GitHub license](https://img.shields.io/github/license/eapinedo/Portfolio?style=flat-square)](LICENSE)
-[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Fportfolio-lohit.vercel.app)](https://portfolio-lohit.vercel.app)
+[![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Feapinedo.github.io/emilio-portfolio)](https://eapinedo.github.io/emilio-portfolio)
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
 
 <p align="center">A modern, responsive portfolio website showcasing professional experience, projects, and skills. Built with React, Vite, and Tailwind CSS, featuring smooth animations and interactive 3D elements. ✨</p>
