@@ -2,7 +2,7 @@
 
 ![Banner](https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Portfolio%20website&fontSize=40&fontAlign=50&animation=fadeIn&fontAlignY=30)
 
-[![GitHub license](https://img.shields.io/github/license/eapinedo/Portfolio?style=flat-square)](LICENSE)
+[![GitHub license](https://img.shields.io/github/license/eapinedo/Portfolio?style=flat-square)](LICENSE.txt)
 [![Website](https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Feapinedo.github.io/emilio-portfolio)](https://eapinedo.github.io/emilio-portfolio)
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=flat-square&logo=react)](https://reactjs.org)
 
@@ -91,7 +91,7 @@ npm run dev
 
 <div align="center">
 
-MIT License © [Emilio Pinedo](LICENSE)
+MIT License © [Emilio Pinedo](LICENSE.txt)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
